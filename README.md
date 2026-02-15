@@ -26,21 +26,23 @@ This case study is broken into 3 phases so that you can solve one by one.
 Stage 0 
 1. You have given an empty repository having only README file. 
 2. If Repository is not given create one having README file which will contains some information 
-about repository. 
+about repository.
+
 Stage 1 
 1. Pull master branch. 
 2. Create program Which will take Swagger JSON as input (eg. http://petstore.swagger.io) 
 3. Output should be all end points present in swagger (eg. “/pet”) 
 4. Create a new feature branch and push the changes
-5. Stage 2 
+  
+6. Stage 2 
 1. Create one more branch from GIT HUB UI 
 2. Check in command line if you can see new branch details 
-3. Use appropriate command to pull branch from remote. 
+3. Use appropriate command to pull branch from remote.
+
+
 Stage 3 
 1. Create tag release 1.1 & push to remote 
 2. Change in file and create new tag release 1.2 & push to remote 
 3. List all tags 
 4. Delete release1.1 from remote 
 5. Delete release 1.1 from loca
-
-6. 
